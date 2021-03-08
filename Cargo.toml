@@ -1,0 +1,10 @@
+[package]
+name = "monkey"
+version = "0.1.0"
+authors = ["Pradeep Borado <pradeep.borado@dish.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+iota = "0.2.2"
