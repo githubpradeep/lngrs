@@ -1,1 +1,1 @@
-simple programming language in rust
+simple programming language in rust based on https://interpreterbook.com/
